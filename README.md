@@ -1,4 +1,4 @@
-# arduino-library- 
+# arduino-library
 libraries for arduino:
 matrix keyboard (4×4;4×3;homemade; any size)
 joystick (a lot of functions for managing libraries for the driver (tank move))
