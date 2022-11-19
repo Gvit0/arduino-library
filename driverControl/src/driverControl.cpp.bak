@@ -87,8 +87,8 @@ void driverControl::joystick(int _jX,int _jY) {
     _sPR = - _sPR;
   }
   else if (_sPR > 3 ){
-    digitalWrite(_IN2, LOW);
-    digitalWrite(_IN1, HIGH);
+    digitalWrite(_IN4, LOW);
+    digitalWrite(_IN3, HIGH);
   }
   else if (_sPL < 3 ){
     digitalWrite(_IN3, LOW);

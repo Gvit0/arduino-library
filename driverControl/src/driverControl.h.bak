@@ -2,7 +2,6 @@
 class driverControl {
   private:
     int _sPR;
-	int _sPL;
     int _IN1;
     int _IN2;
     int _IN3;
